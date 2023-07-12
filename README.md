@@ -7,6 +7,11 @@ Amo tecnologia e buscar conhecimento
 - 🖱 Técnico em informática
 - ✔ Tenho 18 anos
 
+Atualmente estou estudando:
+- Desenvolvimento de API REST no Laravel
+- Vue JS
+- Docker
+
 <div> 
   <a href="https://github.com/johnalysonn/github-readme-stats">
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=johnalysonn&show_icons=true&theme=radical" />
