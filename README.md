@@ -5,7 +5,7 @@ Amo tecnologia e buscar conhecimento
 
 - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas
 - 🖱 Técnico em informática
-- ✔ Tenho 18 anos
+- ✔ Tenho 19 anos
 
 Atualmente estou estudando:
 - Desenvolvimento de API REST no Laravel
