@@ -5,13 +5,12 @@ Amo tecnologia e buscar conhecimento
 
 - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas
 - 🖱 Técnico em informática
-- ✔ Tenho 19 anos
+- ✔ Tenho 20 anos
 
 Atualmente estou estudando:
-- Desenvolvimento de API REST no Laravel
-- Vue JS
-- Docker
-
+- Patterns Laravel
+- SQL avançado
+  
 <div> 
   <a href="https://github.com/johnalysonn/github-readme-stats">
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=johnalysonn&show_icons=true&theme=radical" />
