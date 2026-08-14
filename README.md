@@ -1,43 +1,59 @@
-### Olá, eu me chamo John Alyson
+# Olá, eu sou John Alyson 👋
 
+💻 **Desenvolvedor Back-End | PHP & Laravel**
 
-Amo tecnologia e buscar conhecimento
+Sou desenvolvedor com experiência no desenvolvimento e manutenção de sistemas web, principalmente utilizando **PHP, Laravel e PostgreSQL**. Gosto de entender como as coisas funcionam por baixo dos panos e estou sempre buscando evoluir tecnicamente.
 
-- 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas
-- 🖱 Técnico em informática
-- ✔ Tenho 20 anos
+Atualmente trabalho com desenvolvimento de sistemas para a área da educação, atuando principalmente no **Back-End**, APIs, banco de dados, regras de negócio e manutenção de sistemas legados.
 
-Atualmente estou estudando:
-- Patterns Laravel
-- SQL avançado
-  
+### 🚀 Sobre mim
+
+* 🎓 Técnico em Informática
+* 🎓 Analista e Desenvolvedor de Sistemas
+* 💼 Desenvolvedor PHP/Laravel
+
+### 🛠️ Tecnologias
+
+<div style="display: inline_block"><br>
+
+<img align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+<img align="center" alt="Laravel" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">
+<img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+<img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+<img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img align="center" alt="Vue" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+<img align="center" alt="Node.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img align="center" alt="GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+
+</div>
+
+### 📊 GitHub
+
 <div> 
   <a href="https://github.com/johnalysonn/github-readme-stats">
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=johnalysonn&show_icons=true&theme=radical" />
   </a>
-  <a href="https://github.com/johnalysonn/convoychat">
+  <a href="https://github.com/johnalysonn/github-readme-stats">
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnalysonn&layout=compact&theme=radical" />
   </a>
- </div>
- 
- <div style="display: inline_block"><br>
-  <img align="center" alt="John-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="John-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="John-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="John-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="John-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="John-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="John-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="John-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
 
 ##
 
+### 🌐 Onde me encontrar
+
 <div> 
-  <a href="https://instagram.com/john_alysonn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:johnalyson6633@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/john-alyson-989bb623a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:johnalyson6633@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/john-alyson/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
 
-### Portfólio
-<a href="https://johnalysonn.github.io/portfolio/" target="_blank" >Acesse aqui</a>
+### 💼 Portfólio
+
+👉 <a href="https://johnalyson.com/" target="_blank">Acesse meu portfólio</a>
