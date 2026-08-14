@@ -30,17 +30,6 @@ Atualmente trabalho com desenvolvimento de sistemas para a área da educação, 
 
 </div>
 
-### 📊 GitHub
-
-<div> 
-  <a href="https://github.com/johnalysonn/github-readme-stats">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=johnalysonn&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/johnalysonn/github-readme-stats">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnalysonn&layout=compact&theme=radical" />
-  </a>
-</div>
-
 ##
 
 ### 🌐 Onde me encontrar
